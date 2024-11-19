@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clumsy Crab (CLUMSY)</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="hero">
+        <div class="container">
+            <h1>Clumsy Crab (CLUMSY)</h1>
+            <p>Crabbing sideways to the moon!</p>
+            <div class="buttons">
+                <a href="#buy" class="btn">Buy CLUMSY</a>
+                <a href="#learn" class="btn secondary">Learn More</a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>What is Clumsy Crab?</h2>
+            <p>Clumsy Crab is the meme coin that celebrates the chaos of the market with humor and sustainability. Join the sideways movement!</p>
+        </section>
+
+        <section id="features">
+            <h2>Why CLUMSY?</h2>
+            <ul>
+                <li>Sideways > Moonshots.</li>
+                <li>Crabs are the OG hodlers.</li>
+                <li>Your portfolio deserves personality.</li>
+            </ul>
+        </section>
+
+        <section id="game">
+            <h2>Crab Racing Game</h2>
+            <p>Think your crab is the clumsiest? Prove it in our upcoming crab racing game!</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 Clumsy Crab. All Rights Reserved.</p>
+        <div class="socials">
+            <a href="#">Twitter</a>
+            <a href="#">Discord</a>
+            <a href="#">Telegram</a>
+        </div>
+    </footer>
+</body>
+</html>
